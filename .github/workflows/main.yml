@@ -1,10 +1,8 @@
 name: Mod Derle
-
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,7 +15,7 @@ jobs:
       - run: chmod +x gradlew
       - run: gradle wrapper --gradle-version 8.4
       - run: ./gradlew build
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: cubukmod-jar
           path: build/libs/*.jar
