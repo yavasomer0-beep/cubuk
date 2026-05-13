@@ -1,0 +1,63 @@
+==============================
+ SİHİRLİ ÇUBUKLAR MODU - KURULUM
+==============================
+
+REPLIT'TE DERLEME:
+==================
+1. replit.com sitesine gir, hesap aç (ücretsiz)
+2. "+ Create Repl" → "Java" seç
+3. Bu ZIP'i aç, tüm dosyaları Replit'e yükle (klasör yapısını koru!)
+4. Shell sekmesine tıkla ve yaz:
+   gradle build
+5. build/libs/cubukmod-1.0.0.jar dosyası oluşur
+6. Sağ tıkla → Download
+
+MODS KLASÖRÜNE ATMA:
+====================
+Windows + R → %appdata%\.minecraft\mods
+Klasörü aç, JAR dosyasını içine at.
+
+TLauncher: Forge 1.20.1 seçip başlat.
+
+==============================
+CRAFT TARİFLERİ
+==============================
+
+🟣 ISINLANMA ÇUBUĞU
+Craft:   _E_
+         ESE
+         _S_
+E = Ender Pearl (4 adet)
+S = Stick (2 adet)
+► Sağ tık → baktığın bloğa ışınlan (32 blok)
+► 5 saniye bekleme süresi
+► 64 kullanım
+
+⚡ HIZ ÇUBUĞU
+Craft:   GBG
+         GSG
+         _S_
+G = Gold Ingot (4 adet)
+B = Gold Block (1 adet = 9 ingot)
+S = Stick (2 adet)
+TOPLAM: 13 Gold Ingot + 2 Stick
+► Elde tut (sağ tık basılı) → Hız III + Zıplama II
+► 512 kullanım
+
+💡 ISIK ÇUBUĞU
+Craft:   _L_
+         _S_
+         _S_
+L = Glowstone Dust
+S = Stick (2 adet)
+► Sağ tık → önündeki boş bloğa ışık koy
+► 128 kullanım
+
+❄ DONDURMA ÇUBUĞU
+Craft:   _I_
+         SIS
+         SSS
+I = Packed Ice (2 adet)
+S = Stick (5 adet)
+► Sağ tık → 5 blok çevresindeki tüm düşmanlar yavaşlar (5sn)
+► 64 kullanım
